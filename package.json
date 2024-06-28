@@ -1,0 +1,19 @@
+{
+  "name": "typescript-100-days-of-coding",
+  "version": "1.0.0",
+  "description": "100 Days of Coding Challenge ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hammadsheikh5/Typescript-100-Days-Of-Coding.git"
+  },
+  "author": "Muhammad Hammad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hammadsheikh5/Typescript-100-Days-Of-Coding/issues"
+  },
+  "homepage": "https://github.com/Hammadsheikh5/Typescript-100-Days-Of-Coding#readme"
+}
