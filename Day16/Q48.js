@@ -1,1 +1,2 @@
-console.log("Hello World");
+import chalk from "chalk";
+console.log(chalk.red("Hello World"));
